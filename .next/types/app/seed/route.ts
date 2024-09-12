@@ -1,4 +1,4 @@
-// File: C:\Users\Admin\financial\app\seed\route.ts
+// File: C:\financial\app\seed\route.ts
 import * as entry from '../../../../app/seed/route.js'
 import type { NextRequest } from 'next/server.js'
 
